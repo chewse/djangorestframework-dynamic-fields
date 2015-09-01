@@ -2,6 +2,8 @@
 
 from collections import defaultdict
 
+__version__ = '0.0.1'
+
 
 class DynamicFieldsMixin(object):
     """
